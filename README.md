@@ -9,6 +9,10 @@
 
 ![Spark用户行为分析日志采集图](https://img-blog.csdnimg.cn/20200326095628677.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjQwMjI4,size_16,color_FFFFFF,t_70)
 
+&emsp;&emsp;如下是项目的数据处理流程：
+
+![Spark用户行为分析数据处理流程](https://img-blog.csdnimg.cn/20200326101257815.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjQwMjI4,size_16,color_FFFFFF,t_70)
+
 &emsp;&emsp;如下是项目的部分需求图示：
 
 ![Spark用户行为分析项目需求](https://img-blog.csdnimg.cn/20200326100023617.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNjQwMjI4,size_16,color_FFFFFF,t_70)
