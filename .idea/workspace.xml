@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/spark/session/UserVisitSessionAnalyzeSpark.java" line="57" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d36ac25-d40e-49c5-adc3-f8f89c18a188" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-804427574">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/spark/ad/AdClickRealTimeStatSpark.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="818">
+              <caret line="114" column="10" selection-start-line="113" selection-start-column="13" selection-end-line="114" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>filter</find>
+      <find>DaoF</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/PageSplitConvertRateImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/ConcatLongStringUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/AreaTop3Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/sss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAreaTop3ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AreaTop3ProductImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/RemoveRandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/GetJsonObjectUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/DateUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/AdUserClickCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/AdUserClickCountQueryResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdUserClickCountQueryResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAdUserClickCountDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdUserClickCountImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdBlacklist.java" />
+        <option value="D:/大数据实战项目教程/Spark大型项目实战-电商用户行为分析大数据平台/课件/115.广告点击流量实时统计-基于动态黑名单进行点击行为过滤/代码/AdClickRealTimeStatSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAdBlacklistDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdBlacklistImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAdStatDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdStat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdStatImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdStatQueryResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdProvinceTop3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/sssss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAdProvinceTop3DAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdProvinceTop3Impl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdClickTrend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/sss.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/IAdClickTrendDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/model/AdClickTrendQueryResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/impl/AdClickTrendImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/MockRealTimeData.java" />
+        <option value="$PROJECT_DIR$/src/main/scala/tsetspark2_0/UserActiveDegreeAnalyze.scala" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/factory/DAOFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/MockData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/conf/ConfigurationManager.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/my.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/jdbc/JDBCHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/ITaskDAO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/session/SessionAggrStatAccumulator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/session/CategorySortKey.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/SparkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/session/UserVisitSessionAnalyzeSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/page/PageOneStepConvertRateSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/GroupConcatDistinctUDAF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/RandomPrefixUDF.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/product/AreaTop3ProductSpark.java" />
+        <option value="$PROJECT_DIR$/src/main/java/spark/ad/AdClickRealTimeStatSpark.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/Maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\Maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1003" />
+    <option name="y" value="3" />
+    <option name="width" value="932" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557987976102" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+    <property name="settings.editor.splitter.proportion" value="0.27214515" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\scala\tsetspark2_0" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\spark\product" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\scala\sortkey" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\spark\session" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\dao\impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="dao" />
+      <recent name="dao.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\dao" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\scala\Accumulator" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\util" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\java\jdbc" />
+      <recent name="D:\项目实战\电商用户行为分析(Spark)\AnalysisOfUserBehavior\src\main\jdbc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SortKeyTest">
+    <configuration name="ConfigurationManagerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ConfigurationManagerTest" />
+      <module name="AnalysisOfUserBehavior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SessionAggrStatAccumulatorTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ibeifeng.sparkproject.SessionAggrStatAccumulatorTest" />
+      <module name="AnalysisOfUserBehavior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ibeifeng.sparkproject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortKeyTest" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="sortkey.SortKeyTest" />
+      <module name="AnalysisOfUserBehavior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sortkey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDAOTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TaskDAOTest" />
+      <module name="AnalysisOfUserBehavior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserVisitSessionAnalyzeSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spark.session.UserVisitSessionAnalyzeSpark" />
+      <module name="AnalysisOfUserBehavior" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spark.session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConfigurationManagerTest" />
+      <item itemvalue="Application.SessionAggrStatAccumulatorTest" />
+      <item itemvalue="Application.SortKeyTest" />
+      <item itemvalue="Application.TaskDAOTest" />
+      <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SortKeyTest" />
+        <item itemvalue="Application.UserVisitSessionAnalyzeSpark" />
+        <item itemvalue="Application.SessionAggrStatAccumulatorTest" />
+        <item itemvalue="Application.TaskDAOTest" />
+        <item itemvalue="Application.ConfigurationManagerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d36ac25-d40e-49c5-adc3-f8f89c18a188" name="Default Changelist" comment="" />
+      <created>1553396311511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553396311511</updated>
+      <workItem from="1553396313161" duration="18849000" />
+      <workItem from="1553509806644" duration="8044000" />
+      <workItem from="1553563666776" duration="24425000" />
+      <workItem from="1553680132142" duration="1315000" />
+      <workItem from="1553759534046" duration="7976000" />
+      <workItem from="1553767582463" duration="8980000" />
+      <workItem from="1553827392907" duration="3081000" />
+      <workItem from="1553832230013" duration="2609000" />
+      <workItem from="1553836847060" duration="13396000" />
+      <workItem from="1553909938664" duration="16240000" />
+      <workItem from="1554007182990" duration="11976000" />
+      <workItem from="1554101234984" duration="1885000" />
+      <workItem from="1554171464899" duration="1267000" />
+      <workItem from="1554276163381" duration="6008000" />
+      <workItem from="1554368114507" duration="1005000" />
+      <workItem from="1554372396893" duration="705000" />
+      <workItem from="1554426077961" duration="5989000" />
+      <workItem from="1554513990865" duration="738000" />
+      <workItem from="1554515852045" duration="1344000" />
+      <workItem from="1554547736824" duration="114000" />
+      <workItem from="1554547889455" duration="187000" />
+      <workItem from="1554548128407" duration="1449000" />
+      <workItem from="1554606359771" duration="6431000" />
+      <workItem from="1554718697045" duration="699000" />
+      <workItem from="1554955510119" duration="609000" />
+      <workItem from="1555053499587" duration="706000" />
+      <workItem from="1555116564728" duration="7991000" />
+      <workItem from="1555209130455" duration="15383000" />
+      <workItem from="1555322025464" duration="5891000" />
+      <workItem from="1555380636953" duration="9644000" />
+      <workItem from="1555477459492" duration="18484000" />
+      <workItem from="1555574709661" duration="8300000" />
+      <workItem from="1555645245653" duration="1211000" />
+      <workItem from="1556012307380" duration="501000" />
+      <workItem from="1556266771707" duration="1464000" />
+      <workItem from="1556539159085" duration="439000" />
+      <workItem from="1557539301400" duration="11548000" />
+      <workItem from="1557624792755" duration="26576000" />
+      <workItem from="1557713305067" duration="15117000" />
+      <workItem from="1557751427998" duration="791000" />
+      <workItem from="1557822900369" duration="1804000" />
+      <workItem from="1557889784927" duration="1629000" />
+      <workItem from="1557913206613" duration="6016000" />
+      <workItem from="1557972691570" duration="11599000" />
+      <workItem from="1557988954301" duration="976000" />
+      <workItem from="1562632379616" duration="80000" />
+      <workItem from="1562907712777" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="291476000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19616205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.31960997" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41495124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.33044422" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ss.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAdStatDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/AdStatImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="917">
+          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AdStatQueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AdStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/AdClickTrendImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="80" selection-start-line="79" selection-start-column="8" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AdClickTrendQueryResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/tsetspark2_0/UserActiveDegreeAnalyze.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAdClickTrendDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AdClickTrend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/AdProvinceTop3Impl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAdProvinceTop3DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/model/AdProvinceTop3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/AdBlacklistImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1351">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAdBlacklistDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/AdUserClickCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="150" column="10" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="150" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/MockRealTimeData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/NumberUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/conf/ConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2997">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1563">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/my.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/FastjsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/factory/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/ITaskDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jdbc/JDBCHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7236">
+          <caret line="275" column="7" selection-start-line="275" selection-start-column="7" selection-end-line="275" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/SessionDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/SessionAggrStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/session/UserVisitSessionAnalyzeSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="112" column="19" lean-forward="true" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/Top10CategoryDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="66" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/session/CategorySortKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1809">
+          <caret line="69" column="21" selection-start-line="61" selection-start-column="8" selection-end-line="69" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/SessionAggrStatDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="36" column="61" selection-start-line="36" selection-start-column="61" selection-end-line="36" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/session/SessionAggrStatAccumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2266">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ParamUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/TaskDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="51" column="17" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/SparkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="87" column="34" selection-start-line="87" selection-start-column="34" selection-end-line="87" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Top10Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/impl/AreaTop3ProductImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/GetJsonObjectUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/RandomPrefixUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/GroupConcatDistinctUDAF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="99" column="24" lean-forward="true" selection-start-line="99" selection-start-column="24" selection-end-line="99" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/ConcatLongStringUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="48" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/IAreaTop3ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/RemoveRandomPrefixUDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/product/AreaTop3ProductSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="383" column="57" lean-forward="true" selection-start-line="383" selection-start-column="57" selection-end-line="383" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/page/PageOneStepConvertRateSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="289" column="28" lean-forward="true" selection-start-line="289" selection-start-column="28" selection-end-line="289" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/MockData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2187">
+          <caret line="94" column="61" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spark/ad/AdClickRealTimeStatSpark.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="114" column="10" selection-start-line="113" selection-start-column="13" selection-end-line="114" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
